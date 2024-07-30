@@ -3,7 +3,7 @@
 
 - 👨‍💻 I’m currently working on **Santander's Backoffice**
 
-- 📁 All of my projects are available [right here](right here)
+- 📁 All of my projects are available right here
 
 - 📫 How to reach me **trabajosdenus@gmail.com**
 
