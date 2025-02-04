@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋! I'm Cristian</h1>
 <h3 align="center">Software developer based in Madrid</h3>
 
-- 👨‍💻 I’m currently working on **Santander's Backoffice**
+- 👨‍💻 I’m currently working on **NFQ Advisory Services**
 
 - 📁 All of my projects are available right here
 
